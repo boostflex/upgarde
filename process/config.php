@@ -1,0 +1,4 @@
+<?php
+
+define('TELEGRAM_BOT_TOKEN', '8049521903:AAEOlLkq6WWPpGvD2r7xvgdnsaQOF2y_auU');
+define('TELEGRAM_CHAT_ID', '8062631357');
